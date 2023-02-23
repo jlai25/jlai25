@@ -4,9 +4,7 @@ name: justin lai
 
 location: Goshen, IN/West Lafayette, IN
 
-classifiction: Purdue University 2024
-
-BSc in Computer Science w/ SWE concentration
+classifiction: Purdue University 2024, BSc in Computer Science w/ SWE concentration
                
 languages: Java, JavaScript, C, C++
 
