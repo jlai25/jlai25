@@ -8,4 +8,4 @@ classifiction: Purdue University 2024, BSc in Computer Science w/ SWE concentrat
                
 languages: Java, JavaScript, HTML, CSS, C, C++, Python
 
-frameworks: Vue.js, TailWind CSS, React.js
+frameworks: Vue.js, Tailwind CSS, React.js
